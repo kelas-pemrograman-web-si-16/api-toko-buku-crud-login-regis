@@ -1,0 +1,11 @@
+{
+  "name" : "Dwi Ramadhan",
+  "email" : "ramadhand250@gmail.com",
+  "password" : "Rahasia",
+  "secret" : "Rahasia",
+  "database": {
+    "development": {
+      "uri": "mongodb://localhost:27017/tokobuku"
+    }
+  }
+}
